@@ -10,4 +10,5 @@ export default defineConfig({
   integrations: [tailwind()],
   output:'server',
   adapter: vercel(),
+  // site: 'https://olivier-petiot.github.io',
 });
