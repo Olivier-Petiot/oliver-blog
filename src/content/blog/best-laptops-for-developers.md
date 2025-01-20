@@ -3,7 +3,7 @@
 title: 'Bartolomeo Campagnoli 41 Caprices opus 22'
 pubDate: 2025-01-01
 author: 'Oliver'
-image: 'Campagnoli Caprice n°40 Violin cropped.png'
+image: 'Campagnoli_Caprice_40_Violin_cropped.png'
 tags: ['campagnoli']
 slug: bartolomeo-campagnoli-caprices-opus-22
 
@@ -14,11 +14,9 @@ slug: bartolomeo-campagnoli-caprices-opus-22
 
 In the ever-evolving landscape of technology, developers require laptops that can keep up with their demands for coding, debugging, and testing. As we step into 2024, the search for the perfect laptop for developers continues. Let's explore some of the top contenders for the title of "Best Laptops for Developers" this year.
 
-![alt text](../../../public/images/Campagnoli Caprice n°40 Violin.png)
-
 ## 1. MacBook Pro (M2X Chip)
 
-Apple has consistently ![alt text](../../../public/images/image6.png) delivered high-performance laptops for developers, and the MacBook Pro with the M2X chip is no exception. With its blazing-fast processor, ample RAM, and stunning Retina display, it's a dream machine for coding. The improved battery life ensures you can code for hours without interruption. Plus, macOS offers a Unix-based environment, perfect for software development.
+Apple has consistently ![alt text](../../../public/images/Campagnoli_Caprice_40_Violin.png) delivered high-performance laptops for developers, and the MacBook Pro with the M2X chip is no exception. With its blazing-fast processor, ample RAM, and stunning Retina display, it's a dream machine for coding. The improved battery life ensures you can code for hours without interruption. Plus, macOS offers a Unix-based environment, perfect for software development.
 
 ## 2. Dell XPS 17
 
