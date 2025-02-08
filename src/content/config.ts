@@ -6,10 +6,13 @@ const blogCollection = defineCollection({
         pubDate: z.date(),
         author: z.string(),
         image: z.string(),
+        composer: z.string(),
         tags: z.array(z.string()),
-    }),
+    })
 });
 
 export const collections = {
     blog: blogCollection,
-}
+};
+
+
