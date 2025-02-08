@@ -7,6 +7,7 @@ tags: ['tech', 'hardware']
 composer: 'composer 1'
 slug: the-best-laptops-for-developers-in-2024
 ---
+ <a href="/src/images/about.jpg" download>Click to Download</a>
 
 In the ever-evolving landscape of technology, developers require laptops that can keep up with their demands for coding, debugging, and testing. As we step into 2024, the search for the perfect laptop for developers continues. Let's explore some of the top contenders for the title of "Best Laptops for Developers" this year.
 
